@@ -10,7 +10,7 @@ So I decided to create Shell. A bundle of multiple types of assets, ranging from
 
 I divided into the following sections:
 
-1. Unity Assets - Already imported and ready to use. Current version which I'm using is **2019.2.0f1**
+### 1. Unity Assets - Already imported and ready to use. Current version which I'm using is **2019.2.0f1**
    * Shell Components
       * [x] Persistent Data Manager
       * [x] Screen Transition Manager
@@ -18,12 +18,12 @@ I divided into the following sections:
     * Utilities
       * [ ] Percentage Picker
    * Pre-made sprites with animations
-     * Havn't added one yet :(
+     * [ ] Find one 
    
-2. Raw Database of sprites and sounds (with link and credits when it's necessary)
+### 2. Raw Database of sprites and sounds (with link and credits when it's necessary)
 
-3. Python / Heoroku / PostgreSQL / Google Sheets - Mainly quick useful stuff and some small apps on heroku. How to do it so I don't have to google it everytime. 
+### 3. Python / Heoroku / PostgreSQL / Google Sheets - Mainly quick useful stuff and some small apps on heroku. How to do it so I don't have to google it everytime. 
 
-4. AWS / C# / PostgreSQL - Some guides on how to deploy some server side scripts on AWS for my games.
+### 4. AWS / C# / PostgreSQL - Some guides on how to deploy some server side scripts on AWS for my games.
 
-5. Random Guides
+### 5. Random Guides
